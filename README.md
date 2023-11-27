@@ -10,7 +10,7 @@ This is a Reddit clone application built with Flutter and Riverpod.
 - Add and edit moderators
 - Theme toggling - dark and light mode
 - User karma
-- Upvote and Downvote
+- Upvote and Down-vote
 - Search
 - Firebase cli
 
